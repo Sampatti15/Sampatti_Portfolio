@@ -61,14 +61,6 @@ Open the project
 
 Simply open `index.html` in your browser.
 
-## 📸 Preview
-
-Add screenshots of:
-- Home Page
-- About Section
-- Skills Section
-- Projects Section
-- Contact Section
 
 ## 🎯 Future Improvements
 
@@ -76,7 +68,7 @@ Add screenshots of:
 - Project filtering
 - Blog section
 - Download Resume button
-- Contact form with EmailJS
+- Contact form with Email.JS
 - Performance optimization
 
 ## 📫 Connect With Me
