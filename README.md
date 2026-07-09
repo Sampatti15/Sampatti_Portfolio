@@ -81,7 +81,7 @@ Add screenshots of:
 
 ## 📫 Connect With Me
 
-**LinkedIn:** https://linkedin.com/in/your-linkedin
+**LinkedIn:** https://www.linkedin.com/in/sampatti-borse-0441b5318/
 
 **GitHub:** https://github.com/Sampatti15
 
