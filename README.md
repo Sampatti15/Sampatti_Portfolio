@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-url.netlify.app
+🔗 https://sampatti-portfolio.netlify.app/#
 
 ## 📌 About
 
@@ -85,7 +85,7 @@ Add screenshots of:
 
 **GitHub:** https://github.com/Sampatti15
 
-**Portfolio:** https://your-netlify-url.netlify.app
+**Portfolio:** https://sampatti-portfolio.netlify.app/#
 
 ---
 
